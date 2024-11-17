@@ -1,0 +1,3 @@
+[submodule "CloudClassificationApp"]
+	path = CloudClassificationApp
+	url = git@github.com:denisa6/CloudClassificationApp.git
